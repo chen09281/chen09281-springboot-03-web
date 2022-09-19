@@ -5,3 +5,6 @@ spring:
   #我们的配置文件的真实位置
   messages:
     basename: i18n/login
+  # 时间日期格式化
+  mvc:
+    date-format: yyyy-MM-dd
